@@ -52,6 +52,7 @@ Botecam is a powerful Discord moderation bot designed to streamline community ma
 
 ## Acknowledgments
 
-✨ **Special thanks to Fouzi Guennaoui** ✨  
+✨ **Special thanks to [@FouziGue](https://github.com/FouziGue)** ✨  
 Without whom this bot wouldn't have been as successful. He has helped in the evolution of the bot from version 1 to version 3, assisting with testing, ensuring smooth operation, and providing valuable support whenever bugs arose.
+
 
